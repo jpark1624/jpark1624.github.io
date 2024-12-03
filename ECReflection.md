@@ -5,6 +5,7 @@ Photo 1: Brainstorming Ideas
 
 <img src="photo2.jpg" alt="Photo 2">
 Photo 2: List of activities 
+
 After refining our idea, we designed a nodal diagram connecting words and activities in The Umpire. Our goal was to explore word correlations which are how close one word or phrase is to another in the text. By doing this, we can see if there is a relationship between the words. A secondary goal was to include an interactive element, particularly one involving touch since our focus was on textures. We divided the work, and the guided roles helped us meet our objectives efficiently. Each group member contributed based on their strengths. For instance, our digital asset manager began coding and creating a rough draft of the diagram. Our design facilitator then refined the draft into a cleaner, more readable version, and finally, our fabricator printed and stitched the design. And I ensured everything was flowing smoothly.
 
 One of our successes was adhering strictly to our timeline and being very organized. After a Zoom meeting outside of class, I set a deadline for drafts to be completed by the following Saturday, with votes due by Sunday. We had numerous different drafts and we all collaborated on them. The first coded diagrams were fairly messy but we all chose the major concepts we thought were the most important to include. Then, on Monday, we planned to thread and print in the Education Commons. One set back was that the sewing machine was being used by another group which delayed our process. However, the additional time allowed us to make the final design more visually appealing. Everyone completed their assigned tasks punctually which led to an overall smooth process.
@@ -12,8 +13,8 @@ One of our successes was adhering strictly to our timeline and being very organi
 However, I feel our creativity with regard to texture fell slightly short. While our overall concept was strong, the physical design could have been better. One issue was that we didn’t have drafts of a visual representation on our first day, largely because it involved coding and required more time. Because of this, we could not discuss the design in person which could have been helpful. Despite this, we worked through multiple drafts and gave the design a lot of thought. Another limitation was our initial decision to create black-and-white designs for the activities because we thought the technology was only limited to black-and-white (Photo 3). Thankfully, while working in the Education Commons, we discovered we could add color, which improved the final product (Photo 4). In retrospect, incorporating different textures for the activities might have added more variety and depth to the project. We could have explored different materials on the first day to get an understanding of what was possible. 
 
 <img src="photo3.jpg" alt="Photo 3">
-
 Photo 3: Original black and white design 
+
 <img src="photo4.jpg" alt="Photo 4">
 Photo 4: Colored designs
 
