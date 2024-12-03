@@ -1,5 +1,5 @@
 # jpark1624.github.io
 
-## Heading 1
+## Projects
 
-THis is a lin [statement wher I look forward](lookingforward.md).
+Link to Education Commons group project [reflection](ECReflection.md).
