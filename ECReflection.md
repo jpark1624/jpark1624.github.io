@@ -3,7 +3,7 @@ My group was assigned the theme of textiles and textures, and on day one, we imm
 <img src="photo1.jpg" alt="Photo 1">
 Photo 1: Brainstorming Ideas 
 
-<img src="photo2.jpg" alt="Photo 2">
+<img src="Photo2.jpg" alt="Photo 2">
 Photo 2: List of activities 
 
 
