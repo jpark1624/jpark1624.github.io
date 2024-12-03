@@ -1,6 +1,6 @@
 My group was assigned the theme of textiles and textures, and on day one, we immediately began brainstorming ideas. First, we discussed several concepts (Photo 1). After reviewing the provided examples, we found significant inspiration in a nodal model. Additionally, after hearing about each group member’s multimedia project, we realized that many of us had written about activities featured in The Umpire. This discovery inspired us to combine our past work with the nodal model to create our project. We drafted phrases and activities that were present in The Umpire based on our individual projects (Photo 2). To identify additional activities, we revisited the Umpire spreadsheet and examined the tags.
 
-
+<img src="photo1.jpg" alt="Photo 1">
 Photo 1: Brainstorming Ideas 
 
 
