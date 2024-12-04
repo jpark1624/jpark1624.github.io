@@ -1,3 +1,3 @@
 # Looking Forward 
 
-My future in Digital Humanities
+As a Digital Humanities minor, I’ve always been interested in humanizing data, but this course introduced me to a new perspective. My first key takeaway is the importance of being mindful in research—recognizing who I am studying, who I am not studying, and what studying them entails. Additionally, I aim to continue expanding my GitHub page, incorporating all my coursework and projects to create a comprehensive portfolio. Finally, I’m excited to complete my minor with a final podcast workshop class, where I hope to reflect on and discuss the work we accomplished in this course. Overall, this class has taught me to approach my work with greater thoughtfulness and intentionality, reminding me that behind every dataset is a person.
