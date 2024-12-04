@@ -3,7 +3,10 @@
 ## Humanizing Data as a Central Theme
 One of the most significant themes that emerged in this course was the importance of humanizing data. Numbers and graphs are often seen as impersonal, stripped of context and narrative. However, this course emphasized the need to look beyond raw data to uncover the human stories they represent. For instance, in our EC group project, my group chose to explore activities at Eastern State. I particularly appreciated that we included textiles and textures, allowing the class to physically feel and connect with the information. This tactile experience brought a deeper, more personal engagement with the material.
 
-This idea ties closely to one of our readings, Kim Christen’s “Press Pause: Slowing Down Digital Humanities Practice.” In it, Christen advocates for a more intentional and reflective approach to digital humanities, emphasizing the importance of considering cultural contexts and ethical concerns, particularly in relation to Indigenous knowledge and communities. Through our classwork, we applied this perspective by highlighting the often-overlooked stories of incarcerated people, aiming to understand their experiences in fuller detail. This approach was similarly evident in the Printing in Prisons project, where we each focused on a specific aspect of Eastern State’s magazines and newspapers. I chose to examine the machines used for printing and the skill and labor required to operate them, which gave me a deeper appreciation for the human effort behind these processes.
+<img src="final.png" alt="Cover">
+Final result from the EC group project. 
+
+This idea ties closely to one of our readings, Kim Christen’s “Press Pause: Slowing Down Digital Humanities Practice.” In it, Christen advocates for a more intentional and reflective approach to digital humanities, emphasizing the importance of considering cultural contexts and ethical concerns, particularly in relation to Indigenous knowledge and communities. Through our classwork, we applied this perspective by highlighting the often-overlooked stories of incarcerated people, aiming to understand their experiences in fuller detail. This approach was similarly evident in the Printing in Prisons project <a href="[url](https://printinginprisons.org/blog/parkj/)">link text</a>, where we each focused on a specific aspect of Eastern State’s magazines and newspapers. I chose to examine the machines used for printing and the skill and labor required to operate them, which gave me a deeper appreciation for the human effort behind these processes.
 
 Another article we explored, “Racism in the Machine: Visualization Ethics in Digital Humanities Projects,” underscored the need for inclusive collaboration with diverse stakeholders to minimize harm and prevent digital tools from reinforcing systemic inequalities. Working on group projects throughout the course, particularly the final group project, provided an opportunity to engage with classmates from different backgrounds. This diversity enriched my understanding and broadened my perspective, reinforcing the value of collaborative and inclusive practices in digital humanities.
  
@@ -36,4 +39,5 @@ I believe I excelled in making the assignments personal and meaningful. By drawi
 ## Projects
 
 Link to Education Commons group project [reflection](ECReflection.md).
-Link to looking forward [reflection](lookingforward.md)
+
+Link to looking forward [reflection](lookingforward.md).
