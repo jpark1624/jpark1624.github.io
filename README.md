@@ -19,7 +19,8 @@ Coming into this class, I expected a more technical focus, similar to my experie
 ## Discoveries and Affirmations
 This class affirmed my passion for storytelling and my preference for the humanistic aspects of digital humanities over the technical ones. One exciting discovery was how my role as 34th Street Magazine’s Photo Editor informed my approach to assignments. For example, in the Printing in Prisons project, I chose to focus on color and the printing process, drawing on my experience with our magazine’s transition to a glossy monthly format. The photo below is from the Eastern Echo. Both of these magazines relied on the same method which was a single gathering of bifolium stapled in the middle. Thus each sheet was folded to create two leaves of the magazine. This connection between my academic and extracurricular interests was deeply satisfying and reinforced my commitment to integrating my personal experiences into my academic work.
 
-<img src="streetphoto.jpg" alt="Street Photo">
+<img src="streetphoto,jpg.png" alt="Street Photo">
+<img src="parkcover.png" alt="Cover">
  
 
 ## Strengths and Areas for Improvement
