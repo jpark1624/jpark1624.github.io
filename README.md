@@ -1,4 +1,4 @@
-# jpark1624.github.io
+# Jean Park's Digital Humanities Portfolio
 
 ## Humanizing Data as a Central Theme
 One of the most significant themes that emerged in this course was the importance of humanizing data. Numbers and graphs are often seen as impersonal, stripped of context and narrative. However, this course emphasized the need to look beyond raw data to uncover the human stories they represent. For instance, in our EC group project, my group chose to explore activities at Eastern State. I particularly appreciated that we included textiles and textures, allowing the class to physically feel and connect with the information. This tactile experience brought a deeper, more personal engagement with the material.
