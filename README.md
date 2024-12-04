@@ -37,7 +37,7 @@ This class affirmed my passion for storytelling and my preference for the humani
 I believe I excelled in making the assignments personal and meaningful. By drawing on my background in communication, social media, and visual storytelling, I was able to create projects that felt authentic and relevant to me. However, I wish I had taken more risks in exploring unfamiliar tools or methods. For example, diving deeper into digital tools for visualization or experimenting with coding could have added another layer of depth to my work. If I could revise my projects, I would push myself to balance personal relevance with technical experimentation, broadening my skillset while maintaining my unique perspective.
 
 
-## Projects
+## Other Reflections
 
 Link to Education Commons group project [reflection](ECReflection.md).
 
